@@ -22,7 +22,7 @@ HARD,Split Array Largest Sum,50.3,0.580995560819648,https://leetcode.com/problem
 MEDIUM,Subarray Sum Equals K,50.3,0.45476203786382785,https://leetcode.com/problems/subarray-sum-equals-k,"Array, Hash Table, Prefix Sum"
 EASY,Contains Duplicate,50.3,0.6323636777340309,https://leetcode.com/problems/contains-duplicate,"Array, Hash Table, Sorting"
 MEDIUM,Minimum Operations to Reduce an Integer to 0,50.3,0.5730954555475073,https://leetcode.com/problems/minimum-operations-to-reduce-an-integer-to-0,"Dynamic Programming, Greedy, Bit Manipulation"
-MEDIUM,Frequency of the Most Frequent Element,50.3,0.44102849589147924,https://leetcode.com/problems/frequency-of-the-most-frequent-element,"Array, Binary Search, Greedy, Sliding Window, Sorting, Prefix Sum"
+MEDIUM,Frequency of the Most Frequent Element,50.3,0.44102849589147924,https://leetcode.com/problems/frequency-of-the-most-frequent-element/submissions/1793047029/,"Array, Binary Search, Greedy, Sliding Window, Sorting, Prefix Sum"
 HARD,Reverse Nodes in k-Group,50.3,0.6304374335039493,https://leetcode.com/problems/reverse-nodes-in-k-group,"Linked List, Recursion"
 EASY,Intersection of Two Linked Lists,50.3,0.6112533936845744,https://leetcode.com/problems/intersection-of-two-linked-lists,"Hash Table, Linked List, Two Pointers"
 MEDIUM,Rotate Image,50.3,0.7790164518819447,https://leetcode.com/problems/rotate-image,"Array, Math, Matrix"
